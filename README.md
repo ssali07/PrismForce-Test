@@ -25,7 +25,9 @@ I have used a recursive approach that evaluates all possible paths for Abhimanyu
 *Test Case 1:*
 
 Input:
+
 Enter the initialPower , Number of skips and Number of recharge : 20 1 3
+
 Enter the powers of the enemies guarding each of the 11 circles : 11 20 10 5 3 2 5 8 6 7 9
 
 ```bash
@@ -39,7 +41,9 @@ Enter the powers of the enemies guarding each of the 11 circles : 11 20 10 5 3 2
 *Test Case 2 :*
 
 Input:
+
 Enter the initialPower , Number of skips and Number of recharge : 10 2 1
+
 Enter the powers of the enemies guarding each of the 11 circles : 10 2 5 9 4 9 10 1 5 5 1
 
 ```bash
